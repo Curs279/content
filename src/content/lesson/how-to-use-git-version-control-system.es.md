@@ -1,6 +1,6 @@
 ---
 title: "Cómo usar GIT: Sistema de control de versiones"
-subtitle: "Aprenda cómo usar GIT con un tutorial interactivo, un video y un excelente artículo. Sin GIT, no podrá trabajar en ninguna empresa y no podrá utilizar el código de nadie."
+subtitle: "Aprende cómo usar GIT con un tutorial interactivo, un video y un excelente artículo. Sin GIT, no podrás trabajar en ninguna empresa y no podrás utilizar el código de nadie."
 cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 thumb: "https://breatheco.de/wp-content/uploads/2017/03/commit-object.png"
@@ -10,7 +10,7 @@ status: "published"
 
 ---
 
-> ☝ También hemos preparado un tutorial interactivo sobre GIT. [Haga clic aquí para tomarlo!](https://4geeksacademy.github.io/git-interactive-tutorial/)
+> ☝ También hemos preparado un tutorial interactivo sobre GIT. [Haz clic aquí para tomarlo!](https://4geeksacademy.github.io/git-interactive-tutorial/)
 
 ## ¡GIT es una necesidad!
 
